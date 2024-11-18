@@ -27,10 +27,10 @@
     "sema/text/font",
     "sema/text/typography",
     "sema/motion",
-    "comp/badge/default",
-    "comp/badge/mobile",
-    "comp/badge/ios",
-    "comp/badge/android",
-    "comp/badge/web"
+    "comp/checkbox/default",
+    "comp/radiogroupbutton/default",
+    "comp/button/default",
+    "comp/button/web",
+    "comp/spinner/default"
   ]
 }
