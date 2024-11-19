@@ -8,8 +8,7 @@
       "base/text/font": "enabled",
       "base/space": "source",
       "base/rounding": "source",
-      "base/motion": "enabled",
-      "comp/button/web": "disabled"
+      "base/motion": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4995:2",
     "$figmaModeId": "7410:0",
@@ -86,8 +85,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "base/color/hover": "enabled",
-      "base/color/pressed": "enabled",
-      "comp/button/web": "disabled"
+      "base/color/pressed": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:2",
     "$figmaModeId": "6:0",
@@ -186,8 +184,7 @@
     "selectedTokenSets": {
       "sema/color/light/default": "enabled",
       "sema/elevation/light": "enabled",
-      "base/color/default": "source",
-      "comp/button/web": "disabled"
+      "base/color/default": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:265:2989",
     "$figmaModeId": "265:0",
@@ -287,8 +284,7 @@
     "selectedTokenSets": {
       "sema/color/dark/default": "enabled",
       "sema/elevation/dark": "enabled",
-      "base/color/default": "source",
-      "comp/button/web": "disabled"
+      "base/color/default": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:265:2989",
     "$figmaModeId": "265:1",
@@ -390,8 +386,7 @@
       "sema/color/light/pressed": "enabled",
       "base/color/default": "source",
       "base/color/hover": "source",
-      "base/color/pressed": "source",
-      "comp/button/web": "disabled"
+      "base/color/pressed": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:3",
     "$figmaModeId": "2:1",
@@ -528,8 +523,7 @@
       "sema/color/dark/pressed": "enabled",
       "base/color/default": "source",
       "base/color/hover": "source",
-      "base/color/pressed": "source",
-      "comp/button/web": "disabled"
+      "base/color/pressed": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:2:3",
     "$figmaModeId": "2:2",
@@ -662,8 +656,7 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "sema/opacity": "enabled",
-      "comp/button/web": "disabled"
+      "sema/opacity": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7410:220",
     "$figmaModeId": "7410:1",
@@ -685,8 +678,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "base/motion": "source",
-      "sema/motion": "enabled",
-      "comp/button/web": "disabled"
+      "sema/motion": "enabled"
     },
     "group": "Semantic motion"
   },
@@ -696,8 +688,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "sema/rounding": "enabled",
-      "base/rounding": "source",
-      "comp/button/web": "disabled"
+      "base/rounding": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:701:7994",
     "$figmaModeId": "7410:2",
@@ -722,8 +713,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "sema/space": "enabled",
-      "base/space": "source",
-      "comp/button/web": "disabled"
+      "base/space": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:733:939",
     "$figmaModeId": "7410:3",
@@ -824,8 +814,7 @@
       "sema/text/font": "enabled",
       "sema/text/typography": "enabled",
       "sema/text/language/default": "enabled",
-      "base/text/font": "source",
-      "comp/button/web": "disabled"
+      "base/text/font": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:7410:221",
     "$figmaModeId": "7410:4",
@@ -897,8 +886,7 @@
       "sema/text/language/default": "source",
       "sema/text/font": "source",
       "sema/text/typography": "source",
-      "sema/motion": "source",
-      "comp/button/web": "disabled"
+      "sema/motion": "source"
     },
     "group": "Component"
   },
@@ -924,8 +912,7 @@
       "sema/text/language/default": "source",
       "sema/text/font": "source",
       "sema/text/typography": "source",
-      "sema/motion": "source",
-      "comp/button/web": "disabled"
+      "sema/motion": "source"
     },
     "group": "Component"
   },
@@ -951,8 +938,7 @@
       "sema/text/language/default": "source",
       "sema/text/font": "source",
       "sema/text/typography": "source",
-      "sema/motion": "source",
-      "comp/button/web": "disabled"
+      "sema/motion": "source"
     },
     "group": "Component"
   },
@@ -978,8 +964,7 @@
       "sema/text/language/default": "source",
       "sema/text/font": "source",
       "sema/text/typography": "source",
-      "sema/motion": "source",
-      "comp/button/web": "disabled"
+      "sema/motion": "source"
     },
     "group": "Component"
   }

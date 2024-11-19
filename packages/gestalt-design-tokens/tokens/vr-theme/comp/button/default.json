@@ -45,18 +45,6 @@
             "value": "{sema.color.background.default}",
             "type": "color"
           },
-          "tertiary-semi-transparent": {
-            "value": "{sema.color.background.wash.default}",
-            "type": "color"
-          },
-          "transparent": {
-            "value": "{sema.color.background.transparent}",
-            "type": "color"
-          },
-          "transparent-inverse": {
-            "value": "{sema.color.background.transparent}",
-            "type": "color"
-          },
           "shopping": {
             "value": "{sema.color.background.primary}",
             "type": "color"
@@ -83,18 +71,6 @@
             "value": "{sema.color.text.default}",
             "type": "color"
           },
-          "tertiary-semi-transparent": {
-            "value": "{sema.color.text.default}",
-            "type": "color"
-          },
-          "transparent": {
-            "value": "{sema.color.text.default}",
-            "type": "color"
-          },
-          "transparent-inverse": {
-            "value": "{sema.color.text.inverse}",
-            "type": "color"
-          },
           "shopping": {
             "value": "{sema.color.text.light}",
             "type": "color"
@@ -119,18 +95,6 @@
           },
           "tertiary": {
             "value": "{sema.color.icon.default}",
-            "type": "color"
-          },
-          "tertiary-semi-transparent": {
-            "value": "{sema.color.icon.default}",
-            "type": "color"
-          },
-          "transparent": {
-            "value": "{sema.color.icon.default}",
-            "type": "color"
-          },
-          "transparent-inverse": {
-            "value": "{sema.color.icon.inverse}",
             "type": "color"
           },
           "shopping": {
