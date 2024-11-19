@@ -886,7 +886,11 @@
       "sema/text/language/default": "source",
       "sema/text/font": "source",
       "sema/text/typography": "source",
-      "sema/motion": "source"
+      "sema/motion": "source",
+      "comp/checkbox/default": "enabled",
+      "comp/radiogroupbutton/default": "enabled",
+      "comp/button/default": "enabled",
+      "comp/spinner/default": "enabled"
     },
     "group": "Component"
   },
@@ -912,7 +916,12 @@
       "sema/text/language/default": "source",
       "sema/text/font": "source",
       "sema/text/typography": "source",
-      "sema/motion": "source"
+      "sema/motion": "source",
+      "comp/checkbox/default": "source",
+      "comp/radiogroupbutton/default": "source",
+      "comp/button/default": "enabled",
+      "comp/button/web": "enabled",
+      "comp/spinner/default": "source"
     },
     "group": "Component"
   },
@@ -938,7 +947,11 @@
       "sema/text/language/default": "source",
       "sema/text/font": "source",
       "sema/text/typography": "source",
-      "sema/motion": "source"
+      "sema/motion": "source",
+      "comp/checkbox/default": "enabled",
+      "comp/radiogroupbutton/default": "enabled",
+      "comp/button/default": "enabled",
+      "comp/spinner/default": "enabled"
     },
     "group": "Component"
   },
@@ -964,7 +977,11 @@
       "sema/text/language/default": "source",
       "sema/text/font": "source",
       "sema/text/typography": "source",
-      "sema/motion": "source"
+      "sema/motion": "source",
+      "comp/checkbox/default": "enabled",
+      "comp/radiogroupbutton/default": "enabled",
+      "comp/button/default": "enabled",
+      "comp/spinner/default": "enabled"
     },
     "group": "Component"
   }
