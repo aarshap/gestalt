@@ -46,6 +46,74 @@
             }
           }
         },
+        "hover": {
+          "background": {
+            "tertiary-semi-transparent": {
+              "default": {
+                "value": "{sema.color.hover.background.wash.default}",
+                "type": "color"
+              },
+              "selected": {
+                "value": "{sema.color.hover.background.selected}",
+                "type": "color"
+              }
+            },
+            "transparent": {
+              "default": {
+                "value": "{sema.color.hover.background.wash.default}",
+                "type": "color"
+              },
+              "selected": {
+                "value": "{sema.color.hover.background.selected}",
+                "type": "color"
+              }
+            },
+            "transparent-inverse": {
+              "default": {
+                "value": "{sema.color.hover.background.wash.default}",
+                "type": "color"
+              },
+              "selected": {
+                "value": "{sema.color.hover.background.selected}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "pressed": {
+          "background": {
+            "tertiary-semi-transparent": {
+              "default": {
+                "value": "{sema.color.pressed.background.wash.default}",
+                "type": "color"
+              },
+              "selected": {
+                "value": "{sema.color.background.selected}",
+                "type": "color"
+              }
+            },
+            "transparent": {
+              "default": {
+                "value": "{sema.color.pressed.background.wash.default}",
+                "type": "color"
+              },
+              "selected": {
+                "value": "{sema.color.pressed.background.selected}",
+                "type": "color"
+              }
+            },
+            "transparent-inverse": {
+              "default": {
+                "value": "{sema.color.pressed.background.wash.default}",
+                "type": "color"
+              },
+              "selected": {
+                "value": "{sema.color.pressed.background.selected}",
+                "type": "color"
+              }
+            }
+          }
+        },
         "text": {
           "tertiary-semi-transparent": {
             "default": {
