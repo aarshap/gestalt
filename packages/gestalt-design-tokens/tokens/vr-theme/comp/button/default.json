@@ -176,6 +176,50 @@
             "type": "dimension"
           }
         }
+      },
+      "min-height": {
+        "LG": {
+          "value": "48px",
+          "type": "dimension"
+        },
+        "MD": {
+          "value": "36px",
+          "type": "dimension"
+        },
+        "SM": {
+          "value": "28px",
+          "type": "dimension"
+        }
+      },
+      "gap": {
+        "start-icon-text": {
+          "LG": {
+            "value": "{sema.space.150}",
+            "type": "dimension"
+          },
+          "MD": {
+            "value": "{sema.space.150}",
+            "type": "dimension"
+          },
+          "SM": {
+            "value": "{sema.space.100}",
+            "type": "dimension"
+          }
+        },
+        "text-end-icon": {
+          "LG": {
+            "value": "{sema.space.150}",
+            "type": "dimension"
+          },
+          "MD": {
+            "value": "{sema.space.150}",
+            "type": "dimension"
+          },
+          "SM": {
+            "value": "{sema.space.100}",
+            "type": "dimension"
+          }
+        }
       }
     }
   }

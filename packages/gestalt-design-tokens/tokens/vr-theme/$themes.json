@@ -9,7 +9,6 @@
       "base/space": "source",
       "base/rounding": "source",
       "base/motion": "enabled",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4995:2",
@@ -88,7 +87,6 @@
     "selectedTokenSets": {
       "base/color/hover": "enabled",
       "base/color/pressed": "enabled",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:2",
@@ -189,7 +187,6 @@
       "sema/color/light/default": "enabled",
       "sema/elevation/light": "enabled",
       "base/color/default": "source",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:265:2989",
@@ -291,7 +288,6 @@
       "sema/color/dark/default": "enabled",
       "sema/elevation/dark": "enabled",
       "base/color/default": "source",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:265:2989",
@@ -395,7 +391,6 @@
       "base/color/default": "source",
       "base/color/hover": "source",
       "base/color/pressed": "source",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:3",
@@ -534,7 +529,6 @@
       "base/color/default": "source",
       "base/color/hover": "source",
       "base/color/pressed": "source",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:3",
@@ -669,7 +663,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "sema/opacity": "enabled",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7410:220",
@@ -693,7 +686,6 @@
     "selectedTokenSets": {
       "base/motion": "source",
       "sema/motion": "enabled",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "group": "Semantic motion"
@@ -705,7 +697,6 @@
     "selectedTokenSets": {
       "sema/rounding": "enabled",
       "base/rounding": "source",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:701:7994",
@@ -732,7 +723,6 @@
     "selectedTokenSets": {
       "sema/space": "enabled",
       "base/space": "source",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:733:939",
@@ -835,7 +825,6 @@
       "sema/text/typography": "enabled",
       "sema/text/language/default": "enabled",
       "base/text/font": "source",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7410:221",
@@ -909,7 +898,6 @@
       "sema/text/font": "source",
       "sema/text/typography": "source",
       "sema/motion": "source",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "group": "Component"
@@ -937,7 +925,6 @@
       "sema/text/font": "source",
       "sema/text/typography": "source",
       "sema/motion": "source",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "group": "Component"
@@ -965,7 +952,6 @@
       "sema/text/font": "source",
       "sema/text/typography": "source",
       "sema/motion": "source",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "group": "Component"
@@ -993,7 +979,6 @@
       "sema/text/font": "source",
       "sema/text/typography": "source",
       "sema/motion": "source",
-      "comp/button/default": "disabled",
       "comp/button/web": "disabled"
     },
     "group": "Component"
