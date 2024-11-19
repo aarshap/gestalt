@@ -2,20 +2,6 @@
   "comp": {
     "button": {
       "color": {
-        "text": {
-          "tertiary-semi-transparent": {
-            "value": "{sema.color.text.default}",
-            "type": "color"
-          },
-          "transparent": {
-            "value": "{sema.color.text.default}",
-            "type": "color"
-          },
-          "transparent-inverse": {
-            "value": "{sema.color.text.inverse}",
-            "type": "color"
-          }
-        },
         "background": {
           "tertiary-semi-transparent": {
             "value": "{sema.color.background.wash.default}",
@@ -27,6 +13,20 @@
           },
           "transparent-inverse": {
             "value": "{sema.color.background.transparent}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "tertiary-semi-transparent": {
+            "value": "{sema.color.text.default}",
+            "type": "color"
+          },
+          "transparent": {
+            "value": "{sema.color.text.default}",
+            "type": "color"
+          },
+          "transparent-inverse": {
+            "value": "{sema.color.text.inverse}",
             "type": "color"
           }
         },
