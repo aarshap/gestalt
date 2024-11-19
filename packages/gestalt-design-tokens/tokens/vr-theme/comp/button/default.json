@@ -364,6 +364,36 @@
             "type": "dimension"
           }
         }
+      },
+      "size": {
+        "start-icon": {
+          "LG": {
+            "value": "12px",
+            "type": "dimension"
+          },
+          "MD": {
+            "value": "12px",
+            "type": "dimension"
+          },
+          "SM": {
+            "value": "12px",
+            "type": "dimension"
+          }
+        },
+        "end-icon": {
+          "LG": {
+            "value": "12px",
+            "type": "dimension"
+          },
+          "MD": {
+            "value": "12px",
+            "type": "dimension"
+          },
+          "SM": {
+            "value": "12px",
+            "type": "dimension"
+          }
+        }
       }
     }
   }
