@@ -27,10 +27,11 @@
     "sema/text/font",
     "sema/text/typography",
     "sema/motion",
-    "comp/checkbox/default",
-    "comp/radiogroupbutton/default",
     "comp/button/default",
     "comp/button/web",
+    "comp/checkbox/default",
+    "comp/icon/default",
+    "comp/radiogroupbutton/default",
     "comp/spinner/default"
   ]
 }

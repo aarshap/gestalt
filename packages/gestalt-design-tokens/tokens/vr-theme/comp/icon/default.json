@@ -1,0 +1,48 @@
+{
+  "comp": {
+    "icon": {
+      "size": {
+        "default": {
+          "12": {
+            "value": "12px",
+            "type": "sizing"
+          },
+          "14": {
+            "value": "14px",
+            "type": "sizing"
+          },
+          "16": {
+            "value": "16px",
+            "type": "sizing"
+          },
+          "24": {
+            "value": "16px",
+            "type": "sizing"
+          },
+          "32": {
+            "value": "16px",
+            "type": "sizing"
+          }
+        },
+        "compact": {
+          "10": {
+            "value": "10px",
+            "type": "sizing"
+          },
+          "12": {
+            "value": "12px",
+            "type": "sizing"
+          },
+          "14": {
+            "value": "14px",
+            "type": "sizing"
+          },
+          "16": {
+            "value": "16px",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  }
+}

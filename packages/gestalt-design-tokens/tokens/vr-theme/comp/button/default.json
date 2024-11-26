@@ -339,29 +339,29 @@
         "start-icon-text": {
           "LG": {
             "value": "{sema.space.150}",
-            "type": "dimension"
+            "type": "spacing"
           },
           "MD": {
             "value": "{sema.space.150}",
-            "type": "dimension"
+            "type": "spacing"
           },
           "SM": {
             "value": "{sema.space.100}",
-            "type": "dimension"
+            "type": "spacing"
           }
         },
         "text-end-icon": {
           "LG": {
             "value": "{sema.space.150}",
-            "type": "dimension"
+            "type": "spacing"
           },
           "MD": {
             "value": "{sema.space.150}",
-            "type": "dimension"
+            "type": "spacing"
           },
           "SM": {
             "value": "{sema.space.100}",
-            "type": "dimension"
+            "type": "spacing"
           }
         }
       },
@@ -369,29 +369,29 @@
         "start-icon": {
           "LG": {
             "value": "12px",
-            "type": "dimension"
+            "type": "sizing"
           },
           "MD": {
             "value": "12px",
-            "type": "dimension"
+            "type": "sizing"
           },
           "SM": {
             "value": "12px",
-            "type": "dimension"
+            "type": "sizing"
           }
         },
         "end-icon": {
           "LG": {
             "value": "12px",
-            "type": "dimension"
+            "type": "sizing"
           },
           "MD": {
             "value": "12px",
-            "type": "dimension"
+            "type": "sizing"
           },
           "SM": {
             "value": "12px",
-            "type": "dimension"
+            "type": "sizing"
           }
         }
       }
