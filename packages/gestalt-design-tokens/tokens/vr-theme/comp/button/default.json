@@ -291,33 +291,65 @@
           }
         }
       },
-      "padding": {
-        "horizontal": {
-          "LG": {
-            "value": "{sema.space.400}",
-            "type": "dimension"
+      "space": {
+        "padding": {
+          "horizontal": {
+            "LG": {
+              "value": "{sema.space.400}",
+              "type": "spacing"
+            },
+            "MD": {
+              "value": "{sema.space.300}",
+              "type": "spacing"
+            },
+            "SM": {
+              "value": "{sema.space.200}",
+              "type": "spacing"
+            }
           },
-          "MD": {
-            "value": "{sema.space.300}",
-            "type": "dimension"
-          },
-          "SM": {
-            "value": "{sema.space.200}",
-            "type": "dimension"
+          "vertical": {
+            "LG": {
+              "value": "{sema.space.200}",
+              "type": "spacing"
+            },
+            "MD": {
+              "value": "{sema.space.150}",
+              "type": "spacing"
+            },
+            "SM": {
+              "value": "{sema.space.100}",
+              "type": "spacing"
+            }
           }
         },
-        "vertical": {
-          "LG": {
-            "value": "{sema.space.200}",
-            "type": "dimension"
+        "gap": {
+          "start-icon-text": {
+            "LG": {
+              "value": "{sema.space.150}",
+              "type": "spacing"
+            },
+            "MD": {
+              "value": "{sema.space.150}",
+              "type": "spacing"
+            },
+            "SM": {
+              "value": "{sema.space.100}",
+              "type": "spacing"
+            }
           },
-          "MD": {
-            "value": "{sema.space.150}",
-            "type": "dimension"
-          },
-          "SM": {
-            "value": "{sema.space.100}",
-            "type": "dimension"
+          "text-end-icon": {
+            "LG": {
+              "value": "{sema.space.150}",
+              "type": "spacing"
+            },
+            "MD": {
+              "value": "{sema.space.150}",
+              "type": "spacing"
+            },
+            "SM": {
+              "value": "{sema.space.100}",
+              "type": "spacing"
+            }
           }
         }
       },
@@ -333,36 +365,6 @@
         "SM": {
           "value": "28px",
           "type": "dimension"
-        }
-      },
-      "gap": {
-        "start-icon-text": {
-          "LG": {
-            "value": "{sema.space.150}",
-            "type": "spacing"
-          },
-          "MD": {
-            "value": "{sema.space.150}",
-            "type": "spacing"
-          },
-          "SM": {
-            "value": "{sema.space.100}",
-            "type": "spacing"
-          }
-        },
-        "text-end-icon": {
-          "LG": {
-            "value": "{sema.space.150}",
-            "type": "spacing"
-          },
-          "MD": {
-            "value": "{sema.space.150}",
-            "type": "spacing"
-          },
-          "SM": {
-            "value": "{sema.space.100}",
-            "type": "spacing"
-          }
         }
       },
       "size": {
