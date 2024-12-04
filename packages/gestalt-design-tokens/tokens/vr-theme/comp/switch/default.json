@@ -1,1 +1,100 @@
-{}
+{
+  "comp": {
+    "switch": {
+      "height": {
+        "container": {
+          "value": "24px",
+          "type": "dimension"
+        },
+        "handle": {
+          "value": "16px",
+          "type": "dimension"
+        }
+      },
+      "width": {
+        "container": {
+          "value": "40px",
+          "type": "dimension"
+        },
+        "handle": {
+          "value": "16px",
+          "type": "dimension"
+        }
+      },
+      "rounding": {
+        "container": {
+          "value": "{sema.rounding.pill}",
+          "type": "borderRadius"
+        },
+        "handle": {
+          "value": "{sema.rounding.circle}",
+          "type": "borderRadius"
+        }
+      },
+      "border": {
+        "width": {
+          "container": {
+            "on": {
+              "value": "1px",
+              "type": "borderWidth"
+            },
+            "off": {
+              "value": "0px",
+              "type": "borderWidth"
+            }
+          }
+        }
+      },
+      "color": {
+        "border": {
+          "container": {
+            "enabled": {
+              "on": {
+                "value": "rgba(255,255,255,0)",
+                "type": "color"
+              },
+              "off": {
+                "value": "{sema.color.border.interactive}",
+                "type": "color"
+              }
+            },
+            "disabled": {
+              "on": {
+                "value": "rgba(255,255,255,0)",
+                "type": "color"
+              },
+              "off": {
+                "value": "{sema.color.border.disabled}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "background": {
+          "container": {
+            "enabled": {
+              "off": {
+                "value": "{sema.color.background.default}",
+                "type": "color"
+              },
+              "on": {
+                "value": "{sema.color.background.selected}",
+                "type": "color"
+              }
+            },
+            "disabled": {
+              "off": {
+                "value": "{sema.color.background.default}",
+                "type": "color"
+              },
+              "on": {
+                "value": "{sema.color.background.disabled}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
