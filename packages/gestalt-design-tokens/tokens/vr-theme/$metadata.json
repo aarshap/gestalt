@@ -32,6 +32,7 @@
     "comp/checkbox/default",
     "comp/icon/default",
     "comp/radiogroupbutton/default",
-    "comp/spinner/default"
+    "comp/spinner/default",
+    "comp/switch/default"
   ]
 }
