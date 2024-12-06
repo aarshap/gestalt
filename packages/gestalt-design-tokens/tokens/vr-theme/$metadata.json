@@ -33,6 +33,8 @@
     "comp/icon/default",
     "comp/radiogroupbutton/default",
     "comp/spinner/default",
-    "comp/switch/default"
+    "comp/switch/default",
+    "comp/switch/ios",
+    "comp/switch/web"
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "comp": {
+    "switch": {
+      "height": {
+        "handle": {
+          "value": "18px",
+          "type": "dimension"
+        }
+      },
+      "width": {
+        "handle": {
+          "value": "18px",
+          "type": "dimension"
+        }
+      }
+    }
+  }
+}

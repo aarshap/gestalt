@@ -1,0 +1,28 @@
+{
+  "comp": {
+    "switch": {
+      "color": {
+        "border": {
+          "container": {
+            "disabled": {
+              "off": {
+                "value": "rgba(255,255,255,0)",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "background": {
+          "container": {
+            "disabled": {
+              "off": {
+                "value": "{sema.color.background.disabled}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

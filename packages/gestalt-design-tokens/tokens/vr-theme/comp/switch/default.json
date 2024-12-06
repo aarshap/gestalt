@@ -7,7 +7,7 @@
           "type": "dimension"
         },
         "handle": {
-          "value": "16px",
+          "value": "20px",
           "type": "dimension"
         }
       },
@@ -17,7 +17,7 @@
           "type": "dimension"
         },
         "handle": {
-          "value": "16px",
+          "value": "20px",
           "type": "dimension"
         }
       },
@@ -89,6 +89,28 @@
               },
               "on": {
                 "value": "{sema.color.background.disabled}",
+                "type": "color"
+              }
+            }
+          },
+          "handle": {
+            "enabled": {
+              "off": {
+                "value": "{sema.color.background.inverse}",
+                "type": "color"
+              },
+              "on": {
+                "value": "{sema.color.background.default}",
+                "type": "color"
+              }
+            },
+            "disabled": {
+              "off": {
+                "value": "{sema.color.background.disabled}",
+                "type": "color"
+              },
+              "on": {
+                "value": "{sema.color.background.default}",
                 "type": "color"
               }
             }
