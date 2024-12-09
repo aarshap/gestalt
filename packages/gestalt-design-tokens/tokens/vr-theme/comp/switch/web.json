@@ -12,6 +12,40 @@
           "value": "18px",
           "type": "dimension"
         }
+      },
+      "color": {
+        "hover": {
+          "background": {
+            "container": {
+              "enabled": {
+                "off": {
+                  "value": "{sema.color.hover.background.default}",
+                  "type": "color"
+                },
+                "on": {
+                  "value": "{sema.color.hover.background.selected}",
+                  "type": "color"
+                }
+              }
+            }
+          }
+        },
+        "pressed": {
+          "background": {
+            "container": {
+              "enabled": {
+                "on": {
+                  "value": "{sema.color.pressed.background.selected}",
+                  "type": "color"
+                },
+                "off": {
+                  "value": "{sema.color.pressed.background.default}",
+                  "type": "color"
+                }
+              }
+            }
+          }
+        }
       }
     }
   }
