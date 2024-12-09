@@ -1,9 +1,25 @@
 {
   "comp": {
     "switch": {
+      "border": {
+        "width": {
+          "container": {
+            "on": {
+              "value": "0px",
+              "type": "borderWidth"
+            }
+          }
+        }
+      },
       "color": {
         "border": {
           "container": {
+            "enabled": {
+              "off": {
+                "value": "rgba(255,255,255,0)",
+                "type": "color"
+              }
+            },
             "disabled": {
               "off": {
                 "value": "rgba(255,255,255,0)",
@@ -14,9 +30,29 @@
         },
         "background": {
           "container": {
+            "enabled": {
+              "off": {
+                "value": "{sema.color.background.secondary}",
+                "type": "color"
+              }
+            },
             "disabled": {
               "off": {
                 "value": "{sema.color.background.disabled}",
+                "type": "color"
+              }
+            }
+          },
+          "handle": {
+            "enabled": {
+              "off": {
+                "value": "{sema.color.background.default}",
+                "type": "color"
+              }
+            },
+            "disabled": {
+              "off": {
+                "value": "{sema.color.background.default}",
                 "type": "color"
               }
             }
