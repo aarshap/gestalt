@@ -45,6 +45,30 @@
               }
             }
           }
+        },
+        "focus": {
+          "enabled": {
+            "off": {
+              "inner": {
+                "value": "{sema.color.border.focus.inner.default}",
+                "type": "color"
+              },
+              "outer": {
+                "value": "{sema.color.border.focus.outer.default}",
+                "type": "color"
+              }
+            },
+            "on": {
+              "inner": {
+                "value": "{sema.color.border.focus.inner.default}",
+                "type": "color"
+              },
+              "outer": {
+                "value": "{sema.color.border.focus.outer.default}",
+                "type": "color"
+              }
+            }
+          }
         }
       }
     }
