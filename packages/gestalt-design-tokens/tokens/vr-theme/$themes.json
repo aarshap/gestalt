@@ -892,7 +892,8 @@
       "comp/button/default": "enabled",
       "comp/spinner/default": "enabled",
       "comp/icon/default": "enabled",
-      "comp/switch/default": "enabled"
+      "comp/switch/default": "enabled",
+      "comp/tab/default": "enabled"
     },
     "group": "Component"
   },
@@ -925,7 +926,9 @@
       "comp/button/web": "enabled",
       "comp/spinner/default": "enabled",
       "comp/icon/default": "enabled",
-      "comp/switch/default": "enabled"
+      "comp/switch/default": "enabled",
+      "comp/tab/default": "enabled",
+      "comp/tab/web": "enabled"
     },
     "group": "Component"
   },
@@ -956,7 +959,10 @@
       "comp/radiogroupbutton/default": "enabled",
       "comp/button/default": "enabled",
       "comp/spinner/default": "enabled",
-      "comp/icon/default": "enabled"
+      "comp/icon/default": "enabled",
+      "comp/tab/default": "enabled",
+      "comp/switch/default": "enabled",
+      "comp/switch/ios": "enabled"
     },
     "group": "Component"
   },
@@ -987,7 +993,9 @@
       "comp/radiogroupbutton/default": "enabled",
       "comp/button/default": "enabled",
       "comp/spinner/default": "enabled",
-      "comp/icon/default": "enabled"
+      "comp/icon/default": "enabled",
+      "comp/tab/default": "enabled",
+      "comp/switch/default": "enabled"
     },
     "group": "Component"
   }
