@@ -1,1 +1,36 @@
-{}
+{
+  "comp": {
+    "tab": {
+      "color": {
+        "hover": {
+          "background": {
+            "container": {
+              "deselected": {
+                "value": "{sema.color.hover.background.default}",
+                "type": "color"
+              },
+              "selected": {
+                "value": "{sema.color.background.transparent}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "pressed": {
+          "background": {
+            "container": {
+              "deselected": {
+                "value": "{sema.color.pressed.background.default}",
+                "type": "color"
+              },
+              "selected": {
+                "value": "{sema.color.background.transparent}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
