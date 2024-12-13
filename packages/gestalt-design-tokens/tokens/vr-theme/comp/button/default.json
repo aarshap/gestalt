@@ -20,15 +20,15 @@
       "rounding": {
         "LG": {
           "value": "{sema.rounding.400}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "MD": {
           "value": "{sema.rounding.300}",
-          "type": "borderRadius"
+          "type": "dimension"
         },
         "SM": {
           "value": "{sema.rounding.200}",
-          "type": "borderRadius"
+          "type": "dimension"
         }
       },
       "color": {
