@@ -1,1 +1,104 @@
-{}
+{
+  "comp": {
+    "tab": {
+      "color": {
+        "background": {
+          "container": {
+            "deselected": {
+              "value": "{sema.color.background.transparent}",
+              "type": "color"
+            },
+            "selected": {
+              "value": "{sema.color.background.transparent}",
+              "type": "color"
+            }
+          },
+          "underline": {
+            "deselected": {
+              "value": "{sema.color.background.transparent}",
+              "type": "color"
+            },
+            "selected": {
+              "value": "{sema.color.background.selected}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "deselected": {
+            "value": "{sema.color.icon.default}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{sema.color.icon.default}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "deselected": {
+            "value": "{sema.color.text.default}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{sema.color.text.default}",
+            "type": "color"
+          }
+        }
+      },
+      "typography": {
+        "text": {
+          "value": "{sema.typography.UI.MD}",
+          "type": "typography"
+        }
+      },
+      "height": {
+        "container": {
+          "value": "48px",
+          "type": "dimension"
+        }
+      },
+      "padding": {
+        "horizontal": {
+          "container": {
+            "value": "{sema.space.400}",
+            "type": "dimension"
+          }
+        }
+      },
+      "margin": {
+        "top": {
+          "indicator": {
+            "value": "{sema.space.50}",
+            "type": "dimension"
+          }
+        }
+      },
+      "rounding": {
+        "container": {
+          "value": "{sema.rounding.400}",
+          "type": "dimension"
+        }
+      },
+      "size": {
+        "icon": {
+          "value": "20px",
+          "type": "dimension"
+        }
+      },
+      "gap": {
+        "icon-text": {
+          "value": "{sema.space.100}",
+          "type": "dimension"
+        },
+        "text-indicator": {
+          "value": "{sema.space.100}",
+          "type": "dimension"
+        },
+        "text-underline": {
+          "value": "{sema.space.100}",
+          "type": "dimension"
+        }
+      }
+    }
+  }
+}
