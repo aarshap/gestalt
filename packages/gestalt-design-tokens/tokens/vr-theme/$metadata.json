@@ -30,6 +30,7 @@
     "comp/button/default",
     "comp/button/web",
     "comp/checkbox/default",
+    "comp/fields/default",
     "comp/icon/default",
     "comp/radiogroupbutton/default",
     "comp/spinner/default",
