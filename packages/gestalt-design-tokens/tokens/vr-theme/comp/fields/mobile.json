@@ -1,0 +1,56 @@
+{
+  "comp": {
+    "field": {
+      "padding": {
+        "horizontal": {
+          "input": {
+            "MD": {
+              "value": "{sema.space.400}",
+              "type": "dimension"
+            }
+          }
+        },
+        "top": {
+          "input": {
+            "without-label": {
+              "MD": {
+                "value": "{sema.space.300}",
+                "type": "dimension"
+              }
+            },
+            "with-label": {
+              "MD": {
+                "value": "{sema.space.300}",
+                "type": "dimension"
+              }
+            }
+          }
+        },
+        "bottom": {
+          "input": {
+            "without-label": {
+              "MD": {
+                "value": "{sema.space.300}",
+                "type": "dimension"
+              }
+            },
+            "with-label": {
+              "MD": {
+                "value": "{sema.space.300}",
+                "type": "dimension"
+              }
+            }
+          }
+        }
+      },
+      "gap": {
+        "label-text": {
+          "MD": {
+            "value": "{sema.space.100}",
+            "type": "dimension"
+          }
+        }
+      }
+    }
+  }
+}

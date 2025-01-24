@@ -32,6 +32,7 @@
     "comp/checkbox/default",
     "comp/fields/default",
     "comp/fields/web",
+    "comp/fields/mobile",
     "comp/icon/default",
     "comp/radiogroupbutton/default",
     "comp/spinner/default",
