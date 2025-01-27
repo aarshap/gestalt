@@ -6,15 +6,15 @@
           "border": {
             "input": {
               "typed": {
-                "value": "magenta",
+                "value": "{sema.color.hover.border.interactive}",
                 "type": "color"
               },
               "placeholder": {
-                "value": "magenta",
+                "value": "{sema.color.hover.border.interactive}",
                 "type": "color"
               },
               "error": {
-                "value": "magenta",
+                "value": "{sema.color.hover.border.error}",
                 "type": "color"
               }
             }
