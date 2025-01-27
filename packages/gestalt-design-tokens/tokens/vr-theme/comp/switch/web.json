@@ -46,26 +46,30 @@
             }
           }
         },
-        "focus": {
-          "enabled": {
-            "off": {
-              "inner": {
-                "value": "{sema.color.border.focus.inner.default}",
-                "type": "color"
-              },
-              "outer": {
-                "value": "{sema.color.border.focus.outer.default}",
-                "type": "color"
+        "border": {
+          "focus": {
+            "inner": {
+              "enabled": {
+                "off": {
+                  "value": "{sema.color.border.focus.inner.default}",
+                  "type": "color"
+                },
+                "on": {
+                  "value": "{sema.color.border.focus.inner.default}",
+                  "type": "color"
+                }
               }
             },
-            "on": {
-              "inner": {
-                "value": "{sema.color.border.focus.inner.default}",
-                "type": "color"
-              },
-              "outer": {
-                "value": "{sema.color.border.focus.outer.default}",
-                "type": "color"
+            "outer": {
+              "enabled": {
+                "off": {
+                  "value": "{sema.color.border.focus.outer.default}",
+                  "type": "color"
+                },
+                "on": {
+                  "value": "{sema.color.border.focus.outer.default}",
+                  "type": "color"
+                }
               }
             }
           }
