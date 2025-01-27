@@ -1,0 +1,56 @@
+{
+  "comp": {
+    "textfield": {
+      "padding": {
+        "horizontal": {
+          "input": {
+            "MD": {
+              "value": "{comp.fields.padding.horizontal.input.MD}",
+              "type": "dimension"
+            }
+          }
+        },
+        "top": {
+          "input": {
+            "without-label": {
+              "MD": {
+                "value": "{comp.fields.padding.top.input.without-label.MD}",
+                "type": "dimension"
+              }
+            },
+            "with-label": {
+              "MD": {
+                "value": "{comp.fields.padding.top.input.with-label.MD}",
+                "type": "dimension"
+              }
+            }
+          }
+        },
+        "bottom": {
+          "input": {
+            "without-label": {
+              "MD": {
+                "value": "{comp.fields.padding.bottom.input.without-label.MD}",
+                "type": "dimension"
+              }
+            },
+            "with-label": {
+              "MD": {
+                "value": "{comp.fields.padding.bottom.input.with-label.MD}",
+                "type": "dimension"
+              }
+            }
+          }
+        }
+      },
+      "gap": {
+        "label-text": {
+          "MD": {
+            "value": "{comp.fields.gap.label-text.MD}",
+            "type": "dimension"
+          }
+        }
+      }
+    }
+  }
+}

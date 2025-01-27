@@ -1,0 +1,222 @@
+{
+  "comp": {
+    "textfield": {
+      "color": {
+        "border": {
+          "input": {
+            "typed": {
+              "value": "{comp.fields.color.border.input.typed}",
+              "type": "color"
+            },
+            "placeholder": {
+              "value": "{comp.fields.color.border.input.placeholder}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{comp.fields.color.border.input.disabled}",
+              "type": "color"
+            },
+            "read-only": {
+              "value": "{comp.fields.color.border.input.read-only}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{comp.fields.color.border.input.error}",
+              "type": "color"
+            }
+          }
+        },
+        "background": {
+          "input": {
+            "typed": {
+              "value": "{comp.fields.color.background.input.typed}",
+              "type": "color"
+            },
+            "placeholder": {
+              "value": "{comp.fields.color.background.input.placeholder}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{comp.fields.color.background.input.disabled}",
+              "type": "color"
+            },
+            "read-only": {
+              "value": "{comp.fields.color.background.input.read-only}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{comp.fields.color.background.input.error}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "label": {
+            "typed": {
+              "value": "{comp.fields.color.text.label.typed}",
+              "type": "color"
+            },
+            "placeholder": {
+              "value": "{comp.fields.color.text.label.typed}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{comp.fields.color.text.label.disabled}",
+              "type": "color"
+            },
+            "read-only": {
+              "value": "{comp.fields.color.text.label.read-only}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{comp.fields.color.text.label.error}",
+              "type": "color"
+            }
+          },
+          "input": {
+            "typed": {
+              "value": "{comp.fields.color.text.input.typed}",
+              "type": "color"
+            },
+            "placeholder": {
+              "value": "{comp.fields.color.text.input.placeholder}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{comp.fields.color.text.input.disabled}",
+              "type": "color"
+            },
+            "read-only": {
+              "value": "{comp.fields.color.text.input.read-only}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{comp.fields.color.text.input.error}",
+              "type": "color"
+            }
+          },
+          "helper-text": {
+            "default": {
+              "value": "{comp.fields.color.text.helper-text.default}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{comp.fields.color.text.helper-text.error}",
+              "type": "color"
+            }
+          },
+          "max-length": {
+            "default": {
+              "value": "{comp.fields.color.text.max-length.default}",
+              "type": "color"
+            },
+            "warning": {
+              "value": "{comp.fields.color.text.max-length.warning}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{comp.fields.color.text.max-length.error}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "helper-text": {
+            "error": {
+              "value": "{comp.fields.color.icon.helper-text.error}",
+              "type": "color"
+            }
+          },
+          "max-length": {
+            "warning": {
+              "value": "{comp.fields.color.icon.max-length.warning}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{comp.fields.color.icon.max-length.error}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "typography": {
+        "label": {
+          "MD": {
+            "value": "{comp.fields.typography.label.MD}",
+            "type": "typography"
+          }
+        },
+        "text": {
+          "MD": {
+            "value": "{comp.fields.typography.text.MD}",
+            "type": "typography"
+          }
+        },
+        "helper-text": {
+          "MD": {
+            "value": "{comp.fields.typography.helper-text.MD}",
+            "type": "typography"
+          }
+        },
+        "max-length": {
+          "MD": {
+            "value": "{comp.fields.typography.max-length.MD}",
+            "type": "typography"
+          }
+        }
+      },
+      "rounding": {
+        "input": {
+          "MD": {
+            "value": "{comp.fields.rounding.input.MD}",
+            "type": "dimension"
+          }
+        }
+      },
+      "gap": {
+        "input-helper-text": {
+          "MD": {
+            "value": "{comp.fields.gap.input-helper-text.MD}",
+            "type": "dimension"
+          }
+        },
+        "input-helper-text-max-length": {
+          "MD": {
+            "value": "{comp.fields.gap.input-helper-text-max-length.MD}",
+            "type": "dimension"
+          }
+        },
+        "error-icon-helper-text": {
+          "MD": {
+            "value": "{comp.fields.gap.error-icon-helper-text.MD}",
+            "type": "dimension"
+          }
+        }
+      },
+      "border-width": {
+        "input": {
+          "typed": {
+            "value": "{comp.fields.border-width.input.typed}",
+            "type": "dimension"
+          },
+          "placeholder": {
+            "value": "{comp.fields.border-width.input.placeholder}",
+            "type": "dimension"
+          },
+          "disabled": {
+            "value": "{comp.fields.border-width.input.disabled}",
+            "type": "dimension"
+          },
+          "read-only": {
+            "value": "{comp.fields.border-width.input.read-only}",
+            "type": "dimension"
+          },
+          "error": {
+            "value": "{comp.fields.border-width.input.error}",
+            "type": "dimension"
+          }
+        }
+      }
+    }
+  }
+}

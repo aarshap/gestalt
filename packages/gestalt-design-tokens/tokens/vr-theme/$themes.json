@@ -8,7 +8,10 @@
       "base/text/font": "enabled",
       "base/space": "source",
       "base/rounding": "source",
-      "base/motion": "enabled"
+      "base/motion": "enabled",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4995:2",
     "$figmaModeId": "7410:0",
@@ -85,7 +88,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "base/color/hover": "enabled",
-      "base/color/pressed": "enabled"
+      "base/color/pressed": "enabled",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:2",
     "$figmaModeId": "6:0",
@@ -184,7 +190,10 @@
     "selectedTokenSets": {
       "sema/color/light/default": "enabled",
       "sema/elevation/light": "enabled",
-      "base/color/default": "source"
+      "base/color/default": "source",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:265:2989",
     "$figmaModeId": "265:0",
@@ -284,7 +293,10 @@
     "selectedTokenSets": {
       "sema/color/dark/default": "enabled",
       "sema/elevation/dark": "enabled",
-      "base/color/default": "source"
+      "base/color/default": "source",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:265:2989",
     "$figmaModeId": "265:1",
@@ -386,7 +398,10 @@
       "sema/color/light/pressed": "enabled",
       "base/color/default": "source",
       "base/color/hover": "source",
-      "base/color/pressed": "source"
+      "base/color/pressed": "source",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:3",
     "$figmaModeId": "2:1",
@@ -523,7 +538,10 @@
       "sema/color/dark/pressed": "enabled",
       "base/color/default": "source",
       "base/color/hover": "source",
-      "base/color/pressed": "source"
+      "base/color/pressed": "source",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2:3",
     "$figmaModeId": "2:2",
@@ -656,7 +674,10 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "sema/opacity": "enabled"
+      "sema/opacity": "enabled",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7410:220",
     "$figmaModeId": "7410:1",
@@ -678,7 +699,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "base/motion": "source",
-      "sema/motion": "enabled"
+      "sema/motion": "enabled",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "group": "Semantic motion"
   },
@@ -688,7 +712,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "sema/rounding": "enabled",
-      "base/rounding": "source"
+      "base/rounding": "source",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:701:7994",
     "$figmaModeId": "7410:2",
@@ -713,7 +740,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "sema/space": "enabled",
-      "base/space": "source"
+      "base/space": "source",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:733:939",
     "$figmaModeId": "7410:3",
@@ -814,7 +844,10 @@
       "sema/text/font": "enabled",
       "sema/text/typography": "enabled",
       "sema/text/language/default": "enabled",
-      "base/text/font": "source"
+      "base/text/font": "source",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7410:221",
     "$figmaModeId": "7410:4",
@@ -894,7 +927,10 @@
       "comp/icon/default": "enabled",
       "comp/switch/default": "enabled",
       "comp/tab/default": "enabled",
-      "comp/fields/default": "enabled"
+      "comp/fields/default": "enabled",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "group": "Component"
   },
@@ -931,7 +967,10 @@
       "comp/tab/default": "enabled",
       "comp/tab/web": "enabled",
       "comp/fields/web": "enabled",
-      "comp/fields/default": "enabled"
+      "comp/fields/default": "enabled",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "group": "Component"
   },
@@ -967,7 +1006,10 @@
       "comp/switch/default": "enabled",
       "comp/switch/ios": "enabled",
       "comp/fields/mobile": "enabled",
-      "comp/fields/default": "enabled"
+      "comp/fields/default": "enabled",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "group": "Component"
   },
@@ -1002,7 +1044,10 @@
       "comp/tab/default": "enabled",
       "comp/switch/default": "enabled",
       "comp/fields/mobile": "enabled",
-      "comp/fields/default": "enabled"
+      "comp/fields/default": "enabled",
+      "comp/textfield/default": "disabled",
+      "comp/textfield/web": "disabled",
+      "comp/textfield/mobile": "disabled"
     },
     "group": "Component"
   }
