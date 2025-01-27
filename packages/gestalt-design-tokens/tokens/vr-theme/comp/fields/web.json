@@ -19,6 +19,42 @@
               }
             }
           }
+        },
+        "border": {
+          "focus": {
+            "inner": {
+              "input": {
+                "placeholder": {
+                  "value": "{sema.color.border.focus.inner.default}",
+                  "type": "color"
+                },
+                "typed": {
+                  "value": "{sema.color.border.focus.inner.default}",
+                  "type": "color"
+                },
+                "error": {
+                  "value": "{sema.color.border.focus.inner.default}",
+                  "type": "color"
+                }
+              }
+            },
+            "outer": {
+              "input": {
+                "placeholder": {
+                  "value": "{sema.color.border.focus.outer.default}",
+                  "type": "color"
+                },
+                "typed": {
+                  "value": "{sema.color.border.focus.outer.default}",
+                  "type": "color"
+                },
+                "error": {
+                  "value": "{sema.color.border.focus.outer.default}",
+                  "type": "color"
+                }
+              }
+            }
+          }
         }
       },
       "typography": {
