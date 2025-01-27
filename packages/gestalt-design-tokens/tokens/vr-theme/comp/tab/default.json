@@ -51,7 +51,7 @@
           "type": "typography"
         }
       },
-      "height": {
+      "min-height": {
         "container": {
           "value": "48px",
           "type": "dimension"
