@@ -29,6 +29,30 @@
               }
             }
           }
+        },
+        "border": {
+          "focus": {
+            "inner": {
+              "deselected": {
+                "value": "{sema.color.border.focus.inner.default}",
+                "type": "color"
+              },
+              "selected": {
+                "value": "{sema.color.border.focus.inner.default}",
+                "type": "color"
+              }
+            },
+            "outer": {
+              "deselected": {
+                "value": "{sema.color.border.focus.outer.default}",
+                "type": "color"
+              },
+              "selected": {
+                "value": "{sema.color.border.focus.outer.default}",
+                "type": "color"
+              }
+            }
+          }
         }
       }
     }
