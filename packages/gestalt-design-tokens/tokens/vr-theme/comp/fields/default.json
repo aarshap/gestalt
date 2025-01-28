@@ -216,6 +216,20 @@
             "type": "dimension"
           }
         }
+      },
+      "size": {
+        "error-icon": {
+          "MD": {
+            "value": "12px",
+            "type": "dimension"
+          }
+        },
+        "max-length-icon": {
+          "MD": {
+            "value": "12px",
+            "type": "dimension"
+          }
+        }
       }
     }
   }

@@ -216,6 +216,20 @@
             "type": "dimension"
           }
         }
+      },
+      "size": {
+        "error-icon": {
+          "MD": {
+            "value": "{comp.fields.size.error-icon.MD}",
+            "type": "dimension"
+          }
+        },
+        "max-length-icon": {
+          "MD": {
+            "value": "{comp.fields.size.max-length-icon.MD}",
+            "type": "dimension"
+          }
+        }
       }
     }
   }

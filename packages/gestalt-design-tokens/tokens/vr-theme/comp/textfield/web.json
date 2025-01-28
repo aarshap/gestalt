@@ -238,6 +238,28 @@
             "type": "dimension"
           }
         }
+      },
+      "size": {
+        "error-icon": {
+          "SM": {
+            "value": "{comp.fields.size.error-icon.SM}",
+            "type": "dimension"
+          },
+          "LG": {
+            "value": "{comp.fields.size.error-icon.LG}",
+            "type": "dimension"
+          }
+        },
+        "max-length-icon": {
+          "SM": {
+            "value": "{comp.fields.size.max-length-icon.SM}",
+            "type": "dimension"
+          },
+          "LG": {
+            "value": "{comp.fields.size.max-length-icon.LG}",
+            "type": "dimension"
+          }
+        }
       }
     }
   }

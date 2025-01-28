@@ -238,6 +238,28 @@
             "type": "dimension"
           }
         }
+      },
+      "size": {
+        "error-icon": {
+          "SM": {
+            "value": "12px",
+            "type": "dimension"
+          },
+          "LG": {
+            "value": "12px",
+            "type": "dimension"
+          }
+        },
+        "max-length-icon": {
+          "SM": {
+            "value": "12px",
+            "type": "dimension"
+          },
+          "LG": {
+            "value": "12px",
+            "type": "dimension"
+          }
+        }
       }
     }
   }
